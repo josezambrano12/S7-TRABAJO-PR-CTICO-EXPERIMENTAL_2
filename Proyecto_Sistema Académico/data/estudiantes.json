@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Samantha Mariel",
+    "apellido": "Flores Chavez",
+    "email": "sam@iti.edu.ec",
+    "carnet": "0804425197",
+    "carrera": "Gastronomia"
+  },
+  {
+    "id": 2,
+    "nombre": "Karellis Anahy",
+    "apellido": "Flores Chavez",
+    "email": "kary1@uce.edu.ec",
+    "carnet": "0801242135",
+    "carrera": "Sipcologia"
+  }
+]
