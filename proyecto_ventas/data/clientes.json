@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jose",
+    "apellido": "Zambrano",
+    "email": "jose@gmail.com",
+    "telefono": "0982815323",
+    "ciudad": "Quito"
+  },
+  {
+    "id": 2,
+    "nombre": "Karito",
+    "apellido": "Flores",
+    "email": "kary@gmail.com",
+    "telefono": "0983815423",
+    "ciudad": "La Concordia"
+  },
+  {
+    "id": 3,
+    "nombre": "Samantha",
+    "apellido": "Flores",
+    "email": "sam@gmail.com",
+    "telefono": "0944258732",
+    "ciudad": "La Concordia"
+  }
+]
